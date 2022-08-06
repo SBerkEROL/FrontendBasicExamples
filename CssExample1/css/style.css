@@ -1,0 +1,18 @@
+/****************** BODY ******************/
+body{
+    font-family: 'Open Sans', sans-serif;
+    color: rgb(26, 2, 2);
+}
+/****************** BAŞLIKLAR ******************/
+h1{
+    color: brown; font-size: 30px;
+}
+h2{
+    color: blueviolet; font-size: 25px;
+}
+h3 {
+    color: orangered;font-size: 18px;
+}
+a  {
+color: rgb(99, 29, 165);
+}
