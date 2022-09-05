@@ -1,3 +1,6 @@
+p{
+  font-size: 11px;
+}
 * {
     margin: 0;
     padding: 0;
@@ -10,27 +13,7 @@
     height: 75px;
   }
   
-  /* Top Left Box */
   
-  .left-box {
-    float: left;
-  }
-  
-  .left-box a {
-    margin: 0 10px;
-    text-decoration: none;
-    color: #2d2d2d;
-  }
-  
-  .left-box a:hover {
-    text-decoration: underline;
-  }
-  
-  /* Top Right Box */
-  
-  .right-box {
-    float: right;
-  }
   
   .right-box ul {
     display: flex;
@@ -57,13 +40,13 @@
     color: #f1f1f1;
   }
   
-  /* Center */
+  /* orta */
   
   .logo-box {
     margin: 50px 0;
   }
   
-  /* Search Box */
+  /* arama çubuğu */
   
   .search-box {
     width: 500px;
@@ -95,7 +78,6 @@
     padding-right: 10px;
   }
   
-  /* Button Wrapper */
   
   .buttonWrapper {
     margin-top: 20px;
@@ -136,4 +118,26 @@
   .footerlist2{
     float: right;
     padding: 10px 10px 0 0;
+  }
+
+  /* yukarı sol kutu */
+  
+  .left-box {
+    float: left;
+  }
+  
+  .left-box a {
+    margin: 0 10px;
+    text-decoration: none;
+    color: #2d2d2d;
+  }
+  
+  .left-box a:hover {
+    text-decoration: underline;
+  }
+  
+  /* yukarı sol kutu */
+  
+  .right-box {
+    float: right;
   }
